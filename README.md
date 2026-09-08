@@ -182,7 +182,7 @@ A Gradle/Java implementation and IDE integrations are natural future extensions.
 
 CourseUpdater grew out of an ASP.NET Core teaching workflow in which students fork a starter project, receive lesson-specific automated tests and GitHub Actions workflows, and progressively build one application throughout the course.
 
-The working example is the WVUP UnitConverter project.
+The working example is the <a href="https://github.com/WVUP/UnitConverter" target=_blank>WVUP UnitConverter project</a>.
 
 ## License
 
