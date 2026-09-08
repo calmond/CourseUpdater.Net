@@ -1,0 +1,23 @@
+{
+  "course": "CS 101",
+  "project": "Sample Progressive Project",
+  "remote": "upstream",
+  "nextSteps": [
+    "dotnet test",
+    "git push"
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "name": "First Feature",
+      "tag": "lesson-01-update",
+      "marker": ".course/applied/lesson-01"
+    },
+    {
+      "number": 2,
+      "name": "Validation",
+      "tag": "lesson-02-update",
+      "marker": ".course/applied/lesson-02"
+    }
+  ]
+}
